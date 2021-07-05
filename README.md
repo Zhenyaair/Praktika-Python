@@ -19,9 +19,17 @@
 Завдання 
 
 ![Снимок экрана 2021-07-05 205120](https://user-images.githubusercontent.com/86766660/124505711-c69d4b80-ddd2-11eb-915a-26d6003aaadf.png)
- 
+   
+   
   taks  - 1 варіант
+  
+ ![Снимок экрана 2021-07-05 205426](https://user-images.githubusercontent.com/86766660/124505916-3c091c00-ddd3-11eb-9a8e-abf531bf0b49.png)
 
+  
+  
+ taks01  - 2 варіант
+ 
  ![Снимок экрана 2021-07-05 205258](https://user-images.githubusercontent.com/86766660/124505817-fea48e80-ddd2-11eb-839b-edf27be30e00.png)
  
-  taks  - 2 варіант
+
+
