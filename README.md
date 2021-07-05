@@ -20,7 +20,7 @@
 
 ![Снимок экрана 2021-07-05 205120](https://user-images.githubusercontent.com/86766660/124505711-c69d4b80-ddd2-11eb-915a-26d6003aaadf.png)
  
- Task01- 1 Варіант 
+  taks  - 1 варіант
 
  ![Снимок экрана 2021-07-05 205258](https://user-images.githubusercontent.com/86766660/124505817-fea48e80-ddd2-11eb-839b-edf27be30e00.png)
  
