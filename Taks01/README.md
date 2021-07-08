@@ -46,3 +46,25 @@
 Результат виконання коду
 
 ![Снимок экрана 2021-07-07 113425](https://user-images.githubusercontent.com/86766660/124728608-67495380-df18-11eb-8b31-ccf3fddf0d46.png)
+
+
+
+
+
+
+
+Git hub Code
+
+
+
+
+Заходим в свою  Praktika-Python 
+
+![Снимок экрана 2021-07-08 214200](https://user-images.githubusercontent.com/86766660/124975576-d4eba180-e036-11eb-9945-2cc426b3416c.png)
+
+Створюємо task1 
+
+![Снимок экрана 2021-07-08 214523](https://user-images.githubusercontent.com/86766660/124975569-d3ba7480-e036-11eb-81b4-42c5f440cf4f.png)
+
+Завантажуємо на Гіт
+![Снимок экрана 2021-07-08 215123](https://user-images.githubusercontent.com/86766660/124975573-d4530b00-e036-11eb-943f-373cf3b1b948.png)
