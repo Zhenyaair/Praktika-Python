@@ -61,17 +61,17 @@ class Calculator(tk.Frame):
         while n > 0:
              b = str(n % 2) + b
              n = n // 2
-             print(b)
+             print(b) #вивід у вашому віконному перегляду компілятора
         self.entry.delete(0,tk.END)
         self.entry.insert(0,b)
-        
+        #log
     def log(self):
        text=self.entry.get()
        x=float(text)
        text=math.log2(x)
        self.entry.delete(0,tk.END)
        self.entry.insert(0,text)
-
+ #ln
     def ln(self):
        text=self.entry.get()
        x=float(text)
