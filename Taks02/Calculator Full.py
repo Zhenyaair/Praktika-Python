@@ -15,7 +15,7 @@ class Calculator(tk.Frame):
             self.entry.insert(tk.END, num)
         return n
 
-    #100-число
+    #Динамічне виконання виразів
     def one_hundredth(self):
         text = self.entry.get()
         self.entry.delete(0, tk.END)
